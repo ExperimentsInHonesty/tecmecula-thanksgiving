@@ -29,7 +29,7 @@ Price: $$<BR>
 
 <br>
 <img align="left" alt="Pechanga Resort and Casino Pechanga's Cafe Dinning Room" src="https://user-images.githubusercontent.com/37763229/140665602-0ca91eb3-2239-48d7-9946-333502c404c9.jpg">
-Name: <a href="https://www.pechanga.com/eat/pechanga-cafe">Kelsey's</a><BR>
+Name: <a href="https://www.pechanga.com/eat/pechanga-cafe">Pechanga's Cafe</a><BR>
 Menu: <a href="https://www.pechanga.com/uploads/assets/menus/holidays/Thanksgiving-%202021-Cafe.pdf">Link</a><BR>
 Cusine: American<BR>
 Ambiance: Casual<BR>
