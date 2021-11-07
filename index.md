@@ -10,15 +10,32 @@ Our family likes to have Thanksgiving at a local restaurant.  It saves us having
 [insert details here]
 
 <img align="left" alt="Pechanga Resort and Casino Journey's End Restaurant Dinning Room" src="https://user-images.githubusercontent.com/37763229/140663327-03d406f5-2158-44d4-98ca-c5190297702d.jpg">
-[Journey's End](https://www.pechanga.com/eat/journeys-end)
-[Menu](https://www.pechanga.com/uploads/assets/menus/holidays/Thanksgiving-%202021-Journeys-End.pdf)
-Cusine: American
-Ambiance: Casual
-Dress: Casual
-Price: $$
+Name: <a href="https://www.pechanga.com/eat/journeys-end">Journey's End</a><BR>
+Menu: <a href="https://https://www.pechanga.com/uploads/assets/menus/holidays/Thanksgiving-%202021-Journeys-End.pdf">Link</a><BR>
+Cusine: American<BR>
+Ambiance: Casual<BR>
+Dress: Casual<BR>
+Price: $$<BR>
 <BR CLEAR=LEFT>
-  
-  
+<br>
+<img align="left" alt="Pechanga Resort and Casino Kelsey's Restaurant Dinning Room" src="https://user-images.githubusercontent.com/37763229/140665383-f494f048-c3f9-499f-a3ef-1dbea0b2d19b.jpg">
+Name: <a href="https://www.pechanga.com/eat/kelseys">Kelsey's</a><BR>
+Menu: <a href="https://https://www.pechanga.com/uploads/assets/menus/holidays/Thanksgiving-%202021-Kelseys.pdf">Link</a><BR>
+Cusine: American<BR>
+Ambiance: Casual<BR>
+Dress: Casual<BR>
+Price: $$<BR>
+<BR CLEAR=LEFT>
+
+<br>
+<img align="left" alt="Pechanga Resort and Casino Pechanga's Cafe Dinning Room" src="https://user-images.githubusercontent.com/37763229/140665602-0ca91eb3-2239-48d7-9946-333502c404c9.jpg">
+Name: <a href="https://www.pechanga.com/eat/pechanga-cafe">Kelsey's</a><BR>
+Menu: <a href="https://www.pechanga.com/uploads/assets/menus/holidays/Thanksgiving-%202021-Cafe.pdf">Link</a><BR>
+Cusine: American<BR>
+Ambiance: Casual<BR>
+Dress: Casual<BR>
+Price: $$<BR>
+<BR CLEAR=LEFT>  
 
 ## How to contribute
 
