@@ -38,6 +38,16 @@ Dress: Casual<BR>
 Price: $$<BR>
 <BR CLEAR=LEFT>  
 
+<br>
+<img align="left" alt="Pechanga Resort and Casino Pechanga's Great Oak Steakhouse" src="https://user-images.githubusercontent.com/37763229/140665849-271b1a4d-9780-4f58-8e5b-6bd3601aec22.jpg">
+Name: <a href="https://www.pechanga.com/eat/pechanga-cafe">Great Oak Steakhouse</a><BR>
+Menu: <a href="https://www.pechanga.com/uploads/assets/menus/holidays/Thanksgiving-%202021-Great-Oak.pdf">Link</a><BR>
+Cusine: American<BR>
+Ambiance: Casual<BR>
+Dress: Casual<BR>
+Price: $$<BR>
+<BR CLEAR=LEFT>  
+
 ## How to contribute
 
 ![Pechanga Resort and Casino Journey's End Restaurant Dinning Room](https://user-images.githubusercontent.com/37763229/140663327-03d406f5-2158-44d4-98ca-c5190297702d.jpg)
