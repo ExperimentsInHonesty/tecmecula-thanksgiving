@@ -48,6 +48,16 @@ Dress: Casual<BR>
 Price: $$<BR>
 <BR CLEAR=LEFT>  
 
+<br>
+<img align="left" alt="Pechanga Resort and Casino Pechanga's Cantina 1882" src="https://user-images.githubusercontent.com/37763229/140666062-37408345-f810-446f-8baf-d74e9518a3b1.jpg">
+Name: <a href="https://www.pechanga.com/eat/1882-cantina">Cantina 1882</a><BR>
+Menu: <a href="https://www.pechanga.com/uploads/assets/menus/holidays/Thanksgiving-%202021-1882-Cantina.pdf">Link</a><BR>
+Cusine: Mexican<BR>
+Ambiance: Casual<BR>
+Dress: Casual<BR>
+Price: $$<BR>
+<BR CLEAR=LEFT>  
+
 ## How to contribute
 
 ![Pechanga Resort and Casino Journey's End Restaurant Dinning Room](https://user-images.githubusercontent.com/37763229/140663327-03d406f5-2158-44d4-98ca-c5190297702d.jpg)
