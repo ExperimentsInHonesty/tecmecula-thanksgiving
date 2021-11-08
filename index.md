@@ -71,7 +71,7 @@ Price: $$<BR>
 <BR CLEAR=LEFT> 
 
 <br>
-<img align="left" alt="Thorton Winery Champange Cafe" src="https://user-images.githubusercontent.com/37763229/140666475-ba99ed2c-5315-4d1e-b154-98721883ba34.jpg">
+<img align="left" alt="Thorton Winery Champange Cafe" src="https://user-images.githubusercontent.com/37763229/140678340-744c796c-fea6-4379-8876-b5004b3be759.png">
 Name: <a href="https://www.thorntonwine.com/cafe-champagne-restaurant/">Champange Cafe</a><BR>
 Menu: <a href="https://www.thorntonwine.com/holiday-menus/thanksgiving-menu/">Link</a><BR>
 Winery: Thornton Winery<br>
