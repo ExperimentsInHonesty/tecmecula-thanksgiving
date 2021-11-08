@@ -21,7 +21,7 @@ Price per person: $28<BR>
 <br>
 <img align="left" alt="Pechanga Resort and Casino Kelsey's Restaurant Dinning Room" src="https://user-images.githubusercontent.com/37763229/140665383-f494f048-c3f9-499f-a3ef-1dbea0b2d19b.jpg">
 Name: <a href="https://www.pechanga.com/eat/kelseys">Kelsey's</a><BR>
-Thanksgiving Menu: <a href="https://https://www.pechanga.com/uploads/assets/menus/holidays/Thanksgiving-%202021-Kelseys.pdf">Link</a><BR>
+Thanksgiving Menu: <a href="https://www.pechanga.com/uploads/assets/menus/holidays/Thanksgiving-%202021-Kelseys.pdf">Link</a><BR>
 Cusine: American<BR>
 Ambiance: Casual<BR>
 Dress: Casual<BR>
