@@ -7,7 +7,7 @@ If you are looking for a place to have thankgiving dinner in Temcula this site h
 Our family likes to have Thanksgiving at a local restaurant.  It saves us having to wash dishes, gives us more family time and an opportunity to dress up.  In order to do that, we need to know what restaurants are open and what their menus are.
 
 ### Pechanga Casino and Resort Restaurants
-[insert details here]
+A wide variety of dining options from fine dining to casual
 
 <img align="left" alt="Pechanga Resort and Casino Journey's End Restaurant Dinning Room" src="https://user-images.githubusercontent.com/37763229/140663327-03d406f5-2158-44d4-98ca-c5190297702d.jpg">
 Name: <a href="https://www.pechanga.com/eat/journeys-end">Journey's End</a><BR>
