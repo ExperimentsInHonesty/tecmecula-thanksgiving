@@ -11,7 +11,7 @@ Our family likes to have Thanksgiving at a local restaurant.  It saves us having
 
 <img align="left" alt="Pechanga Resort and Casino Journey's End Restaurant Dinning Room" src="https://user-images.githubusercontent.com/37763229/140663327-03d406f5-2158-44d4-98ca-c5190297702d.jpg">
 Name: <a href="https://www.pechanga.com/eat/journeys-end">Journey's End</a><BR>
-Thanksgiving Menu: <a href="https://https://www.pechanga.com/uploads/assets/menus/holidays/Thanksgiving-%202021-Journeys-End.pdf">Link</a><BR>
+Thanksgiving Menu: <a href="https://www.pechanga.com/uploads/assets/menus/holidays/Thanksgiving-%202021-Journeys-End.pdf">Link</a><BR>
 Cusine: American<BR>
 Ambiance: Casual<BR>
 Dress: Casual<BR>
