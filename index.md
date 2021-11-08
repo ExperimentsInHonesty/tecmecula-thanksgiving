@@ -64,13 +64,34 @@ Price: $$<BR>
 Name: <a href="https://www.europavillage.com/bolero/">Bolero Restaurante</a><BR>
 Menu: <a href="https://www.europavillage.com/wp-content/uploads/2021/11/Thanksgiving_Brunch_Menu_Sign_2021_14x22_v2.pdf">Link</a><BR>
 Winery: Europa Village - Bolero<br>
-Cusine: Mexican<BR>
+Cusine: Spanish<BR>
 Ambiance: Casual<BR>
 Dress: Casual<BR>
 Price: $$<BR>
 <BR CLEAR=LEFT> 
 
+<br>
+<img align="left" alt="Thorton Winery Champange Cafe" src="https://user-images.githubusercontent.com/37763229/140666475-ba99ed2c-5315-4d1e-b154-98721883ba34.jpg">
+Name: <a href="https://www.thorntonwine.com/cafe-champagne-restaurant/">Champange Cafe</a><BR>
+Menu: <a href="https://www.thorntonwine.com/holiday-menus/thanksgiving-menu/">Link</a><BR>
+Winery: Thornton Winery<br>
+Cusine: Spanish <BR>
+Ambiance: Casual<BR>
+Dress: Casual<BR>
+Price: ??<BR>
+<BR CLEAR=LEFT> 
 
+<br>
+<img align="left" alt="Thorton Winery Champange Cafe" src="https://user-images.githubusercontent.com/37763229/140666475-ba99ed2c-5315-4d1e-b154-98721883ba34.jpg">
+Name: <a href="https://www.thorntonwine.com/cafe-champagne-restaurant/">Champange Cafe</a><BR>
+Menu: <a href="https://www.thorntonwine.com/holiday-menus/thanksgiving-menu/">Link</a><BR>
+Winery: Thornton Winery<br>
+Cusine: Californian<BR>
+Ambiance: Casual<BR>
+Dress: Casual<BR>
+Price: ??<BR>
+<BR CLEAR=LEFT> 
+  
 ## How to contribute
 
 ![Pechanga Resort and Casino Journey's End Restaurant Dinning Room](https://user-images.githubusercontent.com/37763229/140663327-03d406f5-2158-44d4-98ca-c5190297702d.jpg)
