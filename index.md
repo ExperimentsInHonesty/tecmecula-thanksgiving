@@ -94,9 +94,6 @@ Price: ??<BR>
   
 ## How to contribute
 
-![Pechanga Resort and Casino Journey's End Restaurant Dinning Room](https://user-images.githubusercontent.com/37763229/140663327-03d406f5-2158-44d4-98ca-c5190297702d.jpg)
-
-
 If you know of a location in Temecula that has a Thanksgiving menu online, please let us know by filling out this form.
 
 
