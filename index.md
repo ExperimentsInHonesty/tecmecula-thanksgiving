@@ -71,8 +71,8 @@ Price per person: $79<BR>
 <BR CLEAR=LEFT> 
 
 <br>
-<img align="left" alt="Thorton Winery Champange Cafe" src="https://user-images.githubusercontent.com/37763229/140678340-744c796c-fea6-4379-8876-b5004b3be759.png">
-Name: <a href="https://www.thorntonwine.com/cafe-champagne-restaurant/">Champange Cafe</a><BR>
+<img align="left" alt="Thorton Winery Cafe Champange" src="https://user-images.githubusercontent.com/37763229/140678340-744c796c-fea6-4379-8876-b5004b3be759.png">
+Name: <a href="https://www.thorntonwine.com/cafe-champagne-restaurant/">Cafe Champange</a><BR>
 Thanksgiving Menu: <a href="https://www.thorntonwine.com/holiday-menus/thanksgiving-menu/">Link</a><BR>
 Winery: Thornton Winery<br>
 Cusine: Spanish <BR>
