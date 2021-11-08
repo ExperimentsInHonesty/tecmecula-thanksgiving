@@ -67,7 +67,7 @@ Winery: Europa Village - Bolero<br>
 Cusine: Spanish<BR>
 Ambiance: Casual<BR>
 Dress: Casual<BR>
-Price: $$<BR>
+Price per person: $79<BR>
 <BR CLEAR=LEFT> 
 
 <br>
@@ -78,7 +78,7 @@ Winery: Thornton Winery<br>
 Cusine: Spanish <BR>
 Ambiance: Casual<BR>
 Dress: Casual<BR>
-Price: ??<BR>
+Price per person: $<BR>
 <BR CLEAR=LEFT> 
 
 <br>
@@ -89,7 +89,7 @@ Winery: South Coast Winery<br>
 Cusine: Californian<BR>
 Ambiance: ??<BR>
 Dress: ??<BR>
-Price: ??<BR>
+Price per person: $<BR>
 <BR CLEAR=LEFT> 
   
 <br>
@@ -100,7 +100,7 @@ Winery: Ponte Vinyard<br>
 Cusine: Californian<BR>
 Ambiance: ??<BR>
 Dress: ??<BR>
-Price: ??<BR>
+Price per person: $<BR>
 <BR CLEAR=LEFT> 
   
 
