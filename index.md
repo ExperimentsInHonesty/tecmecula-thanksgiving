@@ -35,7 +35,7 @@ Thanksgiving Menu: <a href="https://www.pechanga.com/uploads/assets/menus/holida
 Cusine: American<BR>
 Ambiance: Casual<BR>
 Dress: Casual<BR>
-Price: $$<BR>
+Price: $49<BR>
 <BR CLEAR=LEFT>  
 
 <br>
