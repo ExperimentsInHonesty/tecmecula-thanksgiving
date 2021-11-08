@@ -87,8 +87,8 @@ Name: <a href="https://www.southcoastwinery.com/dining/vineyardrose">Vineyard Ro
 Menu: <a href="https://www.southcoastwinery.com/dining/thanksgiving">Link</a><BR>
 Winery: South Coast Winery<br>
 Cusine: Californian<BR>
-Ambiance: Casual<BR>
-Dress: Casual<BR>
+Ambiance: ??<BR>
+Dress: ??<BR>
 Price: ??<BR>
 <BR CLEAR=LEFT> 
   
