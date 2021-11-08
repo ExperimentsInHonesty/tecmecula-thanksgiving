@@ -83,7 +83,7 @@ Price: ??<BR>
 
 <br>
 <img align="left" alt="South Coast Winery's Vineyard Rose Restaurant" src="https://user-images.githubusercontent.com/37763229/140679493-4a0e45b2-154b-4680-a1cc-33b511456cd3.png">
-Name: <a href="https://www.southcoastwinery.com/dining/thanksgiving">Vineyard Rose Restaurant</a><BR>
+Name: <a href="https://www.southcoastwinery.com/dining/vineyardrose">Vineyard Rose Restaurant</a><BR>
 Menu: <a href="https://www.southcoastwinery.com/dining/thanksgiving">Link</a><BR>
 Winery: South Coast Winery<br>
 Cusine: Californian<BR>
