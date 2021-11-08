@@ -106,7 +106,7 @@ Price per person: <BR>
 
 ## How to contribute
 
-If you know of a location in Temecula that has a Thanksgiving menu online, please let us know by filling out this form.
+If you know of a location in Temecula that has a Thanksgiving menu online, [please let us know](https://docs.google.com/forms/d/e/1FAIpQLScV_7LNw5MKTnk2f3w7K9i3pttNSqDKLQy8SydnexlnUZ3Qqw/viewform)
 
 
 ## Licensing
