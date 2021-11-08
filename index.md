@@ -89,7 +89,7 @@ Winery: South Coast Winery<br>
 Cusine: Californian<BR>
 Ambiance: ??<BR>
 Dress: ??<BR>
-Price per person: $$47-108<BR>
+Price per person: $47-108<BR>
 <BR CLEAR=LEFT> 
   
 <br>
