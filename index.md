@@ -89,7 +89,7 @@ Winery: South Coast Winery<br>
 Cusine: Californian<BR>
 Ambiance: ??<BR>
 Dress: ??<BR>
-Price per person: $<BR>
+Price per person: $$47-108<BR>
 <BR CLEAR=LEFT> 
   
 <br>
@@ -100,7 +100,7 @@ Winery: Ponte Vinyard<br>
 Cusine: Californian<BR>
 Ambiance: ??<BR>
 Dress: ??<BR>
-Price per person: $<BR>
+Price per person: <BR>
 <BR CLEAR=LEFT> 
   
 
