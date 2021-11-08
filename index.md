@@ -55,7 +55,7 @@ Thanksgiving Menu: <a href="https://www.pechanga.com/uploads/assets/menus/holida
 Cusine: Mexican<BR>
 Ambiance: Casual<BR>
 Dress: Casual<BR>
-Price: $$<BR>
+Price per person: $39<BR>
 <BR CLEAR=LEFT> 
   
 ### Winery Restaurants
