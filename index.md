@@ -96,9 +96,7 @@ Price per person: $47-108<BR>
 <img align="left" alt="Ponte Vinyard's Bouguet Restaurant" src="https://user-images.githubusercontent.com/37763229/140681188-c430d45a-e385-45fa-a82d-09bf27d808c4.jpg">
 Name: <a href="https://www.pontevineyardinn.com/dining-bar/bouquet-restaurant/">Bouquet</a><BR>
 Thanksgiving Menu: none yet published, called and contains the following choices
-1. Starter: utternut Squash Soup with Roasted Garlic or Harvest Salad (arrugula, beets, etc.)
-2. Entre Ravoli, Shortribs, Turkey, or Salmon
-3. Dessert: Pumpkin cheese cake bar or pecan tart
+Starter: Butternut Squash Soup with Roasted Garlic or Harvest Salad (arrugula, beets, etc.), Entre: Ravoli, Shortribs, Turkey, or Salmon, Dessert: Pumpkin cheese cake bar or pecan tart
 Winery: Ponte Vinyard<br>
 Cusine: Californian<BR>
 Ambiance: ??<BR>
