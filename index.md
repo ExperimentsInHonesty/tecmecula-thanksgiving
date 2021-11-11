@@ -99,7 +99,7 @@ Thanksgiving Menu: none yet published, called and contains the following choices
 Starter: Butternut Squash Soup with Roasted Garlic or Harvest Salad (arrugula, beets, etc.), Entre: Ravoli, Shortribs, Turkey, or Salmon, Dessert: Pumpkin cheese cake bar or pecan tart
 Winery: Ponte Vinyard<br>
 Cusine: Californian<BR>
-Ambiance: ??<BR>
+Ambiance: upscale<BR>
 Dress: Dressy Casual/Cocktail
 Price per person: $46-58
 <BR CLEAR=LEFT> 
