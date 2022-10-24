@@ -104,13 +104,13 @@ Price per person: $45-60
 <BR CLEAR=LEFT> 
   
 ## Places I am still checking
- - https://corkfirekitchen.com/
- - https://falknerwinery.com/restaurant/
- - https://www.wilsoncreekwinery.com/restaurant
- - https://www.callawaywinery.com/meritage-restaurant
- - https://www.leonesscellars.com/restaurant/
- - https://www.avensolewinery.com/restaurant/
- - https://www.mountpalomarwinery.com/restaurant/
+ - [corkfirekitchen](https://corkfirekitchen.com/)
+ - [falknerwinery](https://falknerwinery.com/restaurant/)
+ - [wilsoncreekwinery](https://wilsoncreekwinery.com/restaurant)
+ - [callawaywinery](https://callawaywinery.com/meritage-restaurant)
+ - [leonesscellars](https://leonesscellars.com/restaurant/)
+ - [avensolewinery](https://avensolewinery.com/restaurant/)
+ - [mountpalomarwinery](https://mountpalomarwinery.com/restaurant/)
   
 
 ## How to contribute
