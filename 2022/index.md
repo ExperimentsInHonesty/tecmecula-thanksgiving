@@ -11,7 +11,7 @@ A wide variety of dining options from fine dining to casual
 
 <img align="left" alt="Pechanga Resort and Casino Journey's End Restaurant Dinning Room" src="https://user-images.githubusercontent.com/37763229/140663327-03d406f5-2158-44d4-98ca-c5190297702d.jpg">
 Name: <a href="https://www.pechanga.com/eat/journeys-end">Journey's End</a><BR>
-Thanksgiving Menu: <a href="[https://www.pechanga.com/uploads/assets/menus/holidays/Thanksgiving-%202021-Journeys-End.pdf](https://www.pechanga.com/uploads/assets/menus/holidays/thanksgiving-2022/Journeys_End_Thanksgiving_2022_Menu.pdf)">Link</a><BR>
+Thanksgiving Menu: <a href="https://www.pechanga.com/uploads/assets/menus/holidays/thanksgiving-2022/Journeys_End_Thanksgiving_2022_Menu.pdf">Link</a><BR>
 Cusine: American<BR>
 Ambiance: Casual<BR>
 Dress: Casual<BR>
@@ -21,7 +21,7 @@ Price per person: $48<BR>
 <br>
 <img align="left" alt="Pechanga Resort and Casino Kelsey's Restaurant Dinning Room" src="https://user-images.githubusercontent.com/37763229/140665383-f494f048-c3f9-499f-a3ef-1dbea0b2d19b.jpg">
 Name: <a href="https://www.pechanga.com/eat/kelseys">Kelsey's</a><BR>
-Thanksgiving Menu: <a href="https://www.pechanga.com/uploads/assets/menus/holidays/Thanksgiving-%202021-Kelseys.pdf">Link</a><BR>
+Thanksgiving Menu: <a href="https://www.pechanga.com/uploads/assets/menus/holidays/thanksgiving-2022/Kelseys_Thanksgiving_2022_Menu.pdf">Link</a><BR>
 Cusine: American<BR>
 Ambiance: Casual<BR>
 Dress: Casual<BR>
