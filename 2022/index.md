@@ -108,6 +108,9 @@ Price per person: $45-60
  - https://falknerwinery.com/restaurant/
  - https://www.wilsoncreekwinery.com/restaurant
  - https://www.callawaywinery.com/meritage-restaurant
+ - https://www.leonesscellars.com/restaurant/
+ - https://www.avensolewinery.com/restaurant/
+ - https://www.mountpalomarwinery.com/restaurant/
   
 
 ## How to contribute
