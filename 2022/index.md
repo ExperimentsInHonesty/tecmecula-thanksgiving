@@ -107,6 +107,7 @@ Price per person: $45-60
  - https://corkfirekitchen.com/
  - https://falknerwinery.com/restaurant/
  - https://www.wilsoncreekwinery.com/restaurant
+ - https://www.callawaywinery.com/meritage-restaurant
   
 
 ## How to contribute
