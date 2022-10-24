@@ -104,8 +104,9 @@ Price per person: $45-60
 <BR CLEAR=LEFT> 
   
 ## Places I am still checking
- - https://www.corkfirekitchen.com/
+ - https://corkfirekitchen.com/
  - https://falknerwinery.com/restaurant/
+ - https://www.wilsoncreekwinery.com/restaurant
   
 
 ## How to contribute
