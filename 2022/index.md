@@ -58,7 +58,7 @@ Dress: Casual<BR>
 Price per person: $39<BR>
 <BR CLEAR=LEFT> 
   
-### Winery Restaurants
+### Winery Restaurants (unconfirmed availablity)
 <br>
 <img align="left" alt="Europa Villages' Bolero Restaurant" src="https://user-images.githubusercontent.com/37763229/140666475-ba99ed2c-5315-4d1e-b154-98721883ba34.jpg">
 Name: <a href="https://www.europavillage.com/bolero/">Bolero Restaurante</a><BR>
@@ -102,6 +102,10 @@ Ambiance: upscale<BR>
 Dress: Dressy Casual/Cocktail
 Price per person: $45-60
 <BR CLEAR=LEFT> 
+  
+## Places I am still checking
+ - https://www.corkfirekitchen.com/
+ - https://falknerwinery.com/restaurant/
   
 
 ## How to contribute
