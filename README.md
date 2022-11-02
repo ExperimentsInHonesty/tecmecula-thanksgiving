@@ -1,4 +1,4 @@
-# Restaurants with Thanksgiving 2021 Menus
+# Restaurants with Thanksgiving Menus
 
 If you are looking for a place to have thankgiving dinner in Temcula this site has all the details you need.
 
